@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OKRCustomComponents</string>
+    <string name="show_more_text">Show more</string>
+    <string name="show_less_text">Show less</string>
+</resources>
